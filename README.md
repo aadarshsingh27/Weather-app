@@ -25,8 +25,8 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
-    cd weather-app/weather-app
+    git clone https://github.com/aadarshsingh27/Weather-app.git
+    cd Weather-app/weather-app
     ```
 
 2.  **Install dependencies**:
