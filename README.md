@@ -42,4 +42,4 @@
 
 ## License 📄
 
-This project is open source and available for anyone to use and improve.
+This project is open source and available for anyone to use and improve it.
